@@ -6,7 +6,7 @@
 
 -----
 # Directions from Museum to Airport
- **The near by airport for me is Rajiv Gandhi International Airport. It's located at Hyderabad. Following are the steps to reach the Airport**: 
+ **The near by airport for museum is Rajiv Gandhi International Airport. It's located at Hyderabad. Following are the steps to reach the Airport**: 
 1. Sudha cars museum located at Bahadurpura X Rd
 2. Walk 2 minutes towards Bahdurapura Busstop
     1. Take 251A bus towards Shamshabad airport
