@@ -27,12 +27,21 @@
 
 ****
 ## Tourists Visiting Places
-This table describes about the tourist places with location wise details including the timelines. Here we mentioned the three places with how much time it will take for tourist to cover the place. Thankyou.
+This table describes about the tourist places with location wise details including the timelines. Here we mentioned the three places with how much time it will take for tourist to cover the place. Thankyou.                                       
 |CityName|Location|Time|
 |---     |----    |--- |
 |Hyderabad| Golkond Fort| 3 hrs|
 |Vijayawad| Durgamma Temple| 4 hrs|
 |Polamuru|  Greenary| 5 hrs|
+
+----
+## Pithy Quotes
+
+> *"When our Signature Changes to Autograph. This marks the Success"* ~ APJ Abdul Kalam
+
+> *“Nobody reaches anywhere by believing.”* ~ Osho
+
+
  
 
 ****
