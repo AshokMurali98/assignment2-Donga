@@ -37,9 +37,9 @@ This table describes about the tourist places with location wise details includi
 ----
 ## Pithy Quotes
 
-> *"When our Signature Changes to Autograph. This marks the Success"* ~ APJ Abdul Kalam
+> "When our Signature Changes to Autograph. This marks the Success" ~ *APJ Abdul Kalam*
 
-> *“Nobody reaches anywhere by believing.”* ~ Osho
+> “Nobody reaches anywhere by believing.” ~ *Osho*
 
 
  
