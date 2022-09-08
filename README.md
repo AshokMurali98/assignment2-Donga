@@ -44,7 +44,7 @@ This table describes about the tourist places with location wise details includi
 ****
 ## Code Snippet - SVG
 
-> [Making a simple Hamburger Menu](https://stackoverflow.com/questions/64264356/making-a-simple-hamburger-menu)
+> [Making a simple Hamburger Menu](https://stackoverflow.com/questions/64264356/making-a-simple-hamburger-menu) :-source to the stackoverflow
 
 ```
 <svg viewBox="0 0 100 80" width="40" height="40">
@@ -54,7 +54,7 @@ This table describes about the tourist places with location wise details includi
 </svg> 
 
 ```
-[Snippet Source](https://css-tricks.com/snippets/svg/svg-hamburger-menu/) 
+Source to the Snippet code [Snippet Source](https://css-tricks.com/snippets/svg/svg-hamburger-menu/) 
  
 
 ****
