@@ -41,7 +41,20 @@ This table describes about the tourist places with location wise details includi
 
 > “Nobody reaches anywhere by believing.” ~ *Osho*
 
+****
+## Code Snippet - SVG
 
+> [Making a simple Hamburger Menu](https://stackoverflow.com/questions/64264356/making-a-simple-hamburger-menu)
+
+```
+<svg viewBox="0 0 100 80" width="40" height="40">
+  <rect width="100" height="20"></rect>
+  <rect y="30" width="100" height="20"></rect>
+  <rect y="60" width="100" height="20"></rect>
+</svg> 
+
+```
+[Snippet Source](https://css-tricks.com/snippets/svg/svg-hamburger-menu/) 
  
 
 ****
