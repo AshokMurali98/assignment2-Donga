@@ -1,0 +1,4 @@
+# Ashok Murali Donga
+ > I am AshokMurali, some people called me as Ashok and some other called me as Murali. Basically i am from polamuru it's located at westgodavri Andhra Pradesh and settled in Hyderabad. I have nearly 7 years of professional expossure where i worked as developer, Tester and recently switched to the salesforce developer and currently i am pursuing my Masters in Applied computer science.I'm a kind of person interested in travelling, exploring the new things, And also i'm a foodie on trying all the different types of cuisines. I also active member in NGO's to participate in few of the social activities.
+
+ ![PhotoOfMe](photo.jpg)
